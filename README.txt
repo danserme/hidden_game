@@ -1,0 +1,1 @@
+Hidden game is the game with three levels of complicity. The main task of user is to find all diferences among two pictures and to get the most points. Every click no on the difference leads to decresing of score, while evry found difference gives scores.
